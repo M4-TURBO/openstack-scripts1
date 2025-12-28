@@ -1,2 +1,2 @@
 # openstack-scripts1
-1
+echo"openstack deployment script"
